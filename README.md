@@ -104,7 +104,7 @@ Doosan Robotics designs collaborative robots for all types of operators, from en
 ![2](https://user-images.githubusercontent.com/94164665/204702500-c003275a-91ed-45b8-907b-83a35e4ba878.jpg)
 ![3](https://user-images.githubusercontent.com/94164665/204702525-7f5e8189-08f5-4401-91a9-d408eb89cef5.jpg)
 
-### output video and screen shots of pick and place 
+### Output video and screen shots of pick and place: 
 
 ![ouput](https://user-images.githubusercontent.com/94164665/204702249-11268968-42c2-45eb-ac69-39efc742276d.jpg)
 
